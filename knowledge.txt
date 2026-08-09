@@ -1,0 +1,10 @@
+# Knowledge Base
+
+Replace everything below this line with your actual notes, docs, or information.
+The agent will read this file on every request and use it to answer questions.
+
+Plain text or Markdown both work fine — headings, bullet points, paragraphs are all readable by the AI.
+
+---
+
+(Add your real content here)
